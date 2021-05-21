@@ -8,18 +8,19 @@
 
 // Crie duas variáveis e atribua a cada uma um número;
 
-// Agora mostre no console o resultado da soma das duas variáveis;
+// Agora mostre no console o resultado da soma das duas variáveis;*/
 
 
 
 let name = "Gabriel"
 let idade = 37
 let ano = 2021
-let nascimento = (ano - idade )
-console.log( "Meu ano de nascimento é" , nascimento)
+let souhumano = true
+let nascimento = (ano - idade)
+console.log("Meu ano de nascimento é", nascimento)
 
-let souhumano = "true"
-console.log("Eu sou humano" , souhumano)
+
+console.log("Eu sou humano", souhumano)
 
 
 let oi = 25
